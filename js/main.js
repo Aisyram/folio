@@ -480,7 +480,7 @@ particlesJS("particles-js", {
         }
     },
     "retina_detect": true
-});
+});/* 
 var count_particles, stats, update;
 stats = new Stats;
 stats.setMode(0);
@@ -496,8 +496,8 @@ update = function() {
         count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
     }
     requestAnimationFrame(update);
-};
-requestAnimationFrame(update);;
+}; */
+/* requestAnimationFrame(update);; */
 
 // migajace imie i nazwisko
 	var fancyHeading = document.getElementsByClassName('fancy')[0];
